@@ -8,23 +8,24 @@ Containing all of my custom-developed Minecraft plugins. Built with Java for Spi
 
 | Plugin Name | Description | Supported Versions | Status |
 | :--- | :--- | :--- | :--- |
-| **[Plugin Name 1](./PluginName1)** | Brief description of what this plugin does (e.g., Custom economy and shop system). | `1.20.x - 1.21.x` | 🟢 Active |
-| **[Plugin Name 2](./PluginName2)** | Brief description of what this plugin does (e.g., Lightweight anti-cheat and moderation tools). | `1.19.x - 1.21.x` | 🟡 In Development |
-| **[Plugin Name 3](./PluginName3)** | Brief description of what this plugin does (e.g., Custom minigame mechanics). | `1.20.4` | ⚪ Archived |
+| **[Jenny Plugin](#)** | A Virtual Girlfriend Plugin, similar to Jenny Mod but its Safe For Work (SFW) | `26.x` | 🟡 Under Development |
+| **[InfinityStonesV1](#)** | Collect all 6 Stones and rule the World just like in Avengers: Infinity War Movie | `26.x` | 🟡 In Development |
+| **[DeathSwap](#)** | A Challenge similar to [Dream's YouTube Video](https://www.youtube.com/watch?v=vXS1pXWslxs) | `26.x` | 💻 Under Testing |
 
 ---
 
 ## Tech Stack & Tools
 
-* **Language:** Java (JDK 17 / JDK 21)
-* **APIs:** Spigot API / Paper API
-* **Build Tools:** Maven / Gradle
+* **Language:** Java (JDK 21 and JDK 26)
+* **APIs:** Paper API
+* **Build Tools:** Gradle
+* **IDE:** IntelliJ IDEA
 
 ---
 
-## Installation (General)
+## Installation
 
 1. Navigate to the specific plugin folder or check the **Releases** tab to download the compiled `.jar` file.
-2. Drop the `.jar` file into your server's `/plugins/` directory.
-3. Restart or reload your server (`Paper` or `Spigot`) to generate the default configuration files.
+2. Go to search bar or `ctrl + r` then type `%appdata%` and drop the `.jar` file into your server's `/plugins/` directory.
+3. Restart or reload your server (`Paper`) to generate the default configuration files.
 4. Configure `config.yml` as needed and reload the plugin.
