@@ -9,8 +9,8 @@ Containing all of my custom-developed Minecraft plugins. Built with Java for Spi
 | Plugin Name | Description | Supported Versions | Status |
 | :--- | :--- | :--- | :--- |
 | **[Jenny Plugin](#)** | A Virtual Girlfriend Plugin, similar to Jenny Mod but its Safe For Work (SFW) | `26.x` | 🟡 Under Development |
-| **[InfinityStonesV1](#)** | Collect all 6 Stones and rule the World just like in Avengers: Infinity War Movie | `26.x` | 🟡 In Development |
-| **[DeathSwap](#)** | A Challenge similar to [Dream's YouTube Video](https://www.youtube.com/watch?v=vXS1pXWslxs) | `26.x` | 💻 Under Testing |
+| **[InfinityStonesV1](#)** | Collect all 6 Stones and rule the World just like in Avengers: Infinity War Movie | `26.x` | 🟡 Under Development |
+| **[DeathSwap](#)** | A Challenge plugin that similar to [Dream's YouTube Video](https://www.youtube.com/watch?v=vXS1pXWslxs) | `26.x` | 💻 Under Testing |
 
 ---
 
